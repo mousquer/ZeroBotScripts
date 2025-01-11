@@ -6,3 +6,9 @@ Dentre os scripst estarão sempre scripts simples para que você não precise pr
 É sempre importante você ao baixar qualquer um dos scripts, também baixar os efeitos sonoros.
 
 Mas sempre irei deixar tudo comentado, caso você queira modificar para seu uso, sem muito esforço ou necessidade de entendimento de desenvolvimento.
+
+Todos os scripts encontrados aqui, você deve sempre seguir a ordem para adicionar eles em seu Zerobot.
+
+Caso apresente falha, por favor, pode me reportar diretamente na postagem aonde você encontrou o link deste repositório ou me contatando diretamente no discord.
+
+Discord User: mousquer
